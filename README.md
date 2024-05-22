@@ -5,6 +5,6 @@
 - 😆 I’m Happy guy.
 - 📫 How to reach me:
 - Telegram: @RasoolShafiee
-- Inestagram: @mrshafiee24
+- Instagram: @mrshafiee24
 - Gmail: mrshafiee24@gmail.com
 - ☜(ﾟヮﾟ☜)
