@@ -1,6 +1,6 @@
 - 👋 I’m mr24.
 - 👨‍🎓 I’m student engineering computer.
-- 👨‍⚖️ I’m teach Rubatick.
+- 👨‍🏫 I’m teach Rubatick.
 - 👨‍💻 I’m learning Hr and Web design.
 - 😆 I’m Happy guy.
 - 📫 How to reach me:
