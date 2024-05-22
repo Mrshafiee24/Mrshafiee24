@@ -7,4 +7,4 @@
 - Telegram: @RasoolShafiee
 - Inestagram: @mrshafiee24
 - Gmail: mrshafiee24@gmail.com
-- (☞ﾟヮﾟ)☞
+- (☞ﾟヮﾟ)☞☜(ﾟヮﾟ☜)
