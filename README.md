@@ -9,7 +9,7 @@
 
 ### 📫 How to reach me:
 - 🔗 LinkedIn: https://www.linkedin.com/in/mohammad-rasool-shafiee
-- 📱 Telegram: **@RasoolShafiee**  
+- 📱 Telegram: **@MrShafiee03**  
 - 📷 Instagram: **@mrshafiee24**  
 - 📧 Gmail: **mrshafiee24@gmail.com**  
 
