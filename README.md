@@ -7,7 +7,7 @@
 - 😆 A positive and happy person  
 
 ### 📫 How to reach me:
-- 🔗 LinkedIn: (https://www.linkedin.com/in/mohammad-rasool-shafiee)  
+- 🔗 LinkedIn: **https://www.linkedin.com/in/mohammad-rasool-shafiee**
 - 📱 Telegram: **@RasoolShafiee**  
 - 📷 Instagram: **@mrshafiee24**  
 - 📧 Gmail: **mrshafiee24@gmail.com**  
