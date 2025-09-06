@@ -1,13 +1,15 @@
-[- 👋 I’m Mr24.
-- 👨‍🎓 I’m a student engineering computer.
-- 👨‍🏫 I’m a Rubatick teacher.
-- 👨‍💻 I have experience in Hr and Web design.
-- 👨‍💻 I'm working with Arduino programming and learning deep learning.
-- 👨‍💼 I work in the Hummin Company.
-- 😆 I’m a Happy guy.
-- 📫 How to reach me:
-- Telegram: @RasoolShafiee
-- Instagram: @mrshafiee24
-- Gmail: mrshafiee24@gmail.com
-- ☜(ﾟヮﾟ☜)
-](url)
+- 👋 Hi, I’m **Mr24** (Mohammad Rasool Shafiee)  
+- 👨‍🎓 Computer Engineering Student  
+- 👨‍🏫 Robotics Teacher (with 2 years of experience)  
+- 👨‍💻 Experienced in HR and Web Design  
+- 🤖 Working with **Arduino** and currently learning **Deep Learning**  
+- 👨‍💼 Team member at **Hummin Company**  
+- 😆 A positive and happy person  
+
+### 📫 How to reach me:
+- 🔗 LinkedIn: (https://www.linkedin.com/in/mohammad-rasool-shafiee)  
+- 📱 Telegram: **@RasoolShafiee**  
+- 📷 Instagram: **@mrshafiee24**  
+- 📧 Gmail: **mrshafiee24@gmail.com**  
+
+☜(ﾟヮﾟ☜)
