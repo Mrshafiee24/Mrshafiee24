@@ -1,16 +1,19 @@
-- 👋 Hi, I’m **Mr24** (Mohammad Rasool Shafiee)  
-- 👨‍🎓 Computer Engineering Student  
-- 👨‍🏫 Robotics Teacher (with 2+ years of experience)  
-- 👨‍💻 Experienced in HR and CRM and Web Design  
-- 🤖 Working with **Arduino** and currently learning **Deep Learning**  
-- 🤖 I have built several robots such as **Balance Robot**, **Nayoft**, and **ESC Robot**  
-- 👨‍💼 Team member at **Hummin Company**  
-- 😆 A positive and happy person  
+👋 Hi, I’m **Mr24** (Mohammad Rasool Shafiee)
+
+* 👨‍🎓 Computer Engineering Student
+* 👨‍💻 AI & Deep Learning Enthusiast
+* 🎧 Currently focusing on **Audio AI** and **Audio & Speech Processing**
+* 🤖 Experienced in **Arduino, Robotics, and Embedded Systems**
+* 🧠 Learning and building projects with **Deep Learning, CNNs, and Transformers**
+* 🎵 Currently working on **Audio Classification** and exploring modern Audio AI techniques
+* 💻 Interested in building practical and professional AI projects
+* 😆 Positive, curious, and always learning
 
 ### 📫 How to reach me:
-- 🔗 LinkedIn: https://www.linkedin.com/in/mohammad-rasool-shafiee
-- 📱 Telegram: **@MrShafiee24**  
-- 📷 Instagram: **@_mr___24_**  
-- 📧 Gmail: **mrshafiee24@gmail.com**  
+
+* 🔗 LinkedIn: https://www.linkedin.com/in/mohammad-rasool-shafiee
+* 📱 Telegram: **@MrShafiee24**
+* 📷 Instagram: **@*mr___24***
+* 📧 Gmail: **[mrshafiee24@gmail.com](mailto:mrshafiee24@gmail.com)**
 
 ☜(ﾟヮﾟ☜
